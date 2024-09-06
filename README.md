@@ -54,7 +54,7 @@ Usage
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/your-username/mall-customer-segmentation.git
+git clone https://github.com/Parmeshwar7/Python-Mall-Customer-Segmentation-Data/tree/main
 
 Navigate to the project directory:
 bash
